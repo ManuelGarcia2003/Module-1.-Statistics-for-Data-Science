@@ -1,0 +1,80 @@
+columnas_airbnb,tipo,media,mediana,moda,conteo_moda,n_no_nulos,cobertura,motivo_no_aplica
+id,int64,6.041348506828015e+17,7.398439907597059e+17,35797,1,26067,1.0,
+listing_url,object,,,https://www.airbnb.com/rooms/1000010393808461294,1,26067,1.0,no numerica ni fecha
+scrape_id,int64,20250319150644.0,20250319150644.0,20250319150644,26067,26067,1.0,
+last_scraped,datetime64[ns],2025-03-20 14:06:38.572908544,2025-03-20 00:00:00,2025-03-20 00:00:00,12569,26067,1.0,
+source,object,,,city scrape,22068,26067,1.0,no numerica ni fecha
+name,object,,,"Blueground | Roma Sur 1 recamara, AC & rooftop",57,26067,1.0,no numerica ni fecha
+description,object,,,Enjoy the simplicity of this quiet and central accommodation.,162,25300,0.9705758238385699,no numerica ni fecha
+neighborhood_overview,object,,,"High-end, urbane Polanco is one of the most sought-after neighborhoods in Mexico City. You can find some of the city's most exclusive shopping and dining along Avenida Presidente Masaryk.",63,14391,0.5520773391644608,no numerica ni fecha
+picture_url,object,,,https://a0.muscache.com/pictures/miso/Hosting-822350398158819419/original/0b826239-bcec-4cac-9f40-73705e476cbb.jpeg,18,26067,1.0,no numerica ni fecha
+host_id,int64,228852663.7595427,164898812.0,498701635,242,26067,1.0,
+host_url,object,,,https://www.airbnb.com/users/show/498701635,242,26067,1.0,no numerica ni fecha
+host_name,object,,,Alejandra,334,26062,0.9998081865960793,no numerica ni fecha
+host_since,datetime64[ns],2018-07-15 03:17:05.216790528,2017-12-30 00:00:00,2023-01-30 00:00:00,254,26062,0.9998081865960793,
+host_location,object,,,"Mexico City, Mexico",16788,20587,0.7897725093029501,no numerica ni fecha
+host_about,object,,,"Somos Blueground, una empresa internacional de proptech con varios miles de apartamentos listos para mudarse en un número creciente de ciudades importantes de todo el mundo. Con condiciones flexibles y alojamientos en barrios vibrantes y céntricos, te sentirás como en casa y podrás recorrer todo el tiempo que quieras: un mes, un año o más.",242,15610,0.5988414470403192,no numerica ni fecha
+host_response_time,object,,,within an hour,18390,22563,0.8655771665323972,no numerica ni fecha
+host_response_rate,float64,0.9388024642113194,1.0,1.0,17501,22563,0.8655771665323972,
+host_acceptance_rate,float64,0.8887718621399178,0.99,1.0,10789,23328,0.8949246173322591,
+host_is_superhost,object,,,f,15249,24724,0.9484789197069091,no numerica ni fecha
+host_thumbnail_url,object,,,https://a0.muscache.com/defaults/user_pic-50x50.png?v=3,533,26062,0.9998081865960793,no numerica ni fecha
+host_picture_url,object,,,https://a0.muscache.com/defaults/user_pic-225x225.png?v=3,533,26062,0.9998081865960793,no numerica ni fecha
+host_neighbourhood,object,,,Polanco,1662,13875,0.532282195879848,no numerica ni fecha
+host_listings_count,float64,25.900851814902925,4.0,1.0,6903,26062,0.9998081865960793,
+host_total_listings_count,float64,35.07282633719592,5.0,1.0,4931,26062,0.9998081865960793,
+host_verifications,object,,,"['email', 'phone']",20272,26062,0.9998081865960793,no numerica ni fecha
+host_has_profile_pic,object,,,t,25529,26062,0.9998081865960793,no numerica ni fecha
+host_identity_verified,object,,,t,24864,26062,0.9998081865960793,no numerica ni fecha
+neighbourhood,object,,,"Mexico City, Ciudad de México, Mexico",12027,14391,0.5520773391644608,no numerica ni fecha
+neighbourhood_cleansed,object,,,Cuauhtémoc,12030,26067,1.0,no numerica ni fecha
+neighbourhood_group_cleansed,float64,,,,0,0,0.0,sin datos
+latitude,float64,19.405241615644545,19.41515,19.4328484,85,26067,1.0,
+longitude,float64,-99.16604585422552,-99.16739874603272,-99.1661571,85,26067,1.0,
+property_type,object,,,Entire rental unit,10024,26067,1.0,no numerica ni fecha
+room_type,object,,,Entire home/apt,17163,26067,1.0,no numerica ni fecha
+accommodates,int64,3.34676027160778,2.0,2,10575,26067,1.0,
+bathrooms,float64,1.451432327078234,1.0,1.0,14294,22062,0.8463574634595465,
+bathrooms_text,object,,,1 bath,10782,26040,0.9989642076188284,no numerica ni fecha
+bedrooms,float64,1.5680985017532674,1.0,1.0,15157,25096,0.9627498369586067,
+beds,float64,1.9598548423678839,1.0,1.0,10801,22045,0.8457052978862163,
+amenities,object,,,"[""Hangers"", ""Hair dryer"", ""Microwave"", ""Cooking basics"", ""Air conditioning"", ""Self check-in"", ""Wifi"", ""Elevator"", ""Lockbox"", ""Kitchen"", ""Hot water"", ""Patio or balcony"", ""Iron"", ""High chair"", ""Shampoo"", ""Backyard"", ""Refrigerator"", ""Crib"", ""Long term stays allowed"", ""Essentials"", ""Bed linens"", ""Private entrance"", ""TV""]",54,26067,1.0,no numerica ni fecha
+price,float64,1665.005981511691,1055.0,450.0,143,22068,0.8465876395442513,
+minimum_nights,int64,4.794222580273909,2.0,1,12541,26067,1.0,
+maximum_nights,int64,497.85042390762266,365.0,365,10996,26067,1.0,
+minimum_minimum_nights,int64,4.326274600069053,1.0,1,13538,26067,1.0,
+maximum_minimum_nights,int64,4.861395634326927,2.0,1,10422,26067,1.0,
+minimum_maximum_nights,int64,83078.22741397169,730.0,1125,12764,26067,1.0,
+maximum_maximum_nights,int64,83105.26558483907,1125.0,1125,13364,26067,1.0,
+minimum_nights_avg_ntm,float64,4.553466068208846,2.0,1.0,10810,26067,1.0,
+maximum_nights_avg_ntm,float64,83091.15845321673,999.0,1125.0,12757,26067,1.0,
+calendar_updated,float64,,,,0,0,0.0,sin datos
+has_availability,object,,,t,25076,25076,0.961982583342924,no numerica ni fecha
+availability_30,int64,12.807150803698162,12.0,0,5966,26067,1.0,
+availability_60,int64,32.647868953082444,37.0,0,4611,26067,1.0,
+availability_90,int64,54.661564430122375,65.0,0,3991,26067,1.0,
+availability_365,int64,218.3208654620785,259.0,0,2572,26067,1.0,
+calendar_last_scraped,datetime64[ns],2025-03-20 14:06:38.572908544,2025-03-20 00:00:00,2025-03-20 00:00:00,12569,26067,1.0,
+number_of_reviews,int64,50.48475083438831,20.0,0,3261,26067,1.0,
+number_of_reviews_ltm,int64,15.173245866421146,7.0,0,6735,26067,1.0,
+number_of_reviews_l30d,int64,1.2210457666781755,0.0,0,13691,26067,1.0,
+availability_eoy,int64,178.37323052134883,221.0,0,3028,26067,1.0,
+number_of_reviews_ly,int64,14.514481911996011,6.0,0,7732,26067,1.0,
+estimated_occupancy_l365d,int64,82.52909809337477,48.0,0,6735,26067,1.0,
+estimated_revenue_l365d,float64,137057.07585644373,57234.0,0.0,4440,22068,0.8465876395442513,
+first_review,datetime64[ns],2022-01-17 03:49:44.937537280,2022-10-07 00:00:00,2024-03-11 00:00:00,73,8405,0.3224383319906395,
+last_review,datetime64[ns],2024-11-08 19:51:13.439894784,2025-03-03 00:00:00,2025-02-03 00:00:00,799,9134,0.3504047262822726,
+review_scores_rating,float64,4.7503323686749095,4.84,5.0,4402,22806,0.8748992979629416,
+review_scores_accuracy,float64,4.7835347511510635,4.88,5.0,4908,22805,0.8748609352821575,
+review_scores_cleanliness,float64,4.753930716948037,4.85,5.0,4553,22805,0.8748609352821575,
+review_scores_checkin,float64,4.837276035957027,4.92,5.0,6179,22805,0.8748609352821575,
+review_scores_communication,float64,4.823004604253454,4.92,5.0,6515,22805,0.8748609352821575,
+review_scores_location,float64,4.840322297741724,4.92,5.0,6255,22805,0.8748609352821575,
+review_scores_value,float64,4.713931593948696,4.8,5.0,3625,22805,0.8748609352821575,
+license,float64,,,,0,0,0.0,sin datos
+instant_bookable,object,,,f,15666,26067,1.0,no numerica ni fecha
+calculated_host_listings_count,int64,15.491886293014156,3.0,1,8280,26067,1.0,
+calculated_host_listings_count_entire_homes,int64,12.622626309126481,1.0,1,7091,26067,1.0,
+calculated_host_listings_count_private_rooms,int64,2.690067901944988,0.0,0,15062,26067,1.0,
+calculated_host_listings_count_shared_rooms,int64,0.14190355622050868,0.0,0,25594,26067,1.0,
+reviews_per_month,float64,1.803388581952118,1.23,1.0,347,22806,0.8748992979629416,
